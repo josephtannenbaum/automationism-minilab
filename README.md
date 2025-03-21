@@ -1,1 +1,1 @@
-# Minilab Automationism MIDI inputs
+# Arturia Minilab Automationism MIDI inputs
