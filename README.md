@@ -1,5 +1,7 @@
 # Arturia Minilab Automationism MIDI inputs
 
+Note: if you use plugdata, [jyg/automatonism-reloaded](https://github.com/jyg/automatonism-reloaded) has MIDI learning!
+
 - Send triggers with pads
 - Control params with knobs, see below for an example. To take control of Chorus 1's pitch:
   1. Create a message `<param name> $1 <instance name>`
